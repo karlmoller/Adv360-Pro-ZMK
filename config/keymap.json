@@ -32,7 +32,7 @@
                                                                          "&bootloader", "&bootloader",                                                             
                                                               "&rgb_ug RGB_MEFS_CMD 5",  "&bt BT_CLR",                                              "&bt BT_CLR",   "&bt BT_CLR", "&rgb_ug RGB_MEFS_CMD 5",            
                                                                                                                                                                
-                           "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",                  "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                      "&none"
+                           "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",                  "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC"
     ]
   ]
 }
